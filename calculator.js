@@ -17,4 +17,4 @@ function divisao(num1, num2){
 exports.multipli = multipli;
 exports.divisao = divisao;
 exports.soma = soma;
-exports. subtracao = subtracao;
+exports.subtracao = subtracao;
