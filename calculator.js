@@ -6,7 +6,7 @@ function subtracao(num1, num2){
     return num1 - num2;
 }
 
-function multipli(num1, num2){
+function multiplicacao(num1, num2){
     return num1 * num2;
 }
 
@@ -14,7 +14,7 @@ function divisao(num1, num2){
     return num1 / num2;
 }
 
-exports.multipli = multipli;
+exports.multiplicao = multiplicacao;
 exports.divisao = divisao;
 exports.soma = soma;
 exports.subtracao = subtracao;
