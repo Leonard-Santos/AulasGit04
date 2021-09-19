@@ -1,7 +1,7 @@
 {
   "name": "aulasgit04",
   "version": "1.0.0",
-  "description": "\"Aplicativo da Aula\"",
+  "description": "Aplicativo da Aula",
   "main": "app.js",
   "scripts": {
     "test": "jest"
